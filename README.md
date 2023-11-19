@@ -24,6 +24,8 @@ This is a Keras implementation of the paper [A Neural Algorithm of Artistic Styl
 ```bash
 git clone https://github.com/Roshan818/Neural-Style-Transfer.git
 cd Neural-Style-Transfer
+pip install -r requirements.txt
+
 mkdir input
 cd input
 mkdir vgg19
