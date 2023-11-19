@@ -54,3 +54,7 @@ Run the file `style-transfer-deep-learning-algorithm.ipynb` in Jupyter Notebook.
 
 - [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 - [Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)
+cd /D:/Projects/Deep Learning/Neural-Style-Transfer/
+touch .gitkeep
+git add .
+git commit -m "Add placeholder file for empty folder"
