@@ -24,6 +24,12 @@ This is a Keras implementation of the paper [A Neural Algorithm of Artistic Styl
 ```bash
 git clone https://github.com/Roshan818/Neural-Style-Transfer.git
 cd Neural-Style-Transfer
+mkdir input
+cd input
+mkdir vgg19
+mkdir best-artworks-of-all-time
+mkdir image-classification
+cd ..
 ```
 
 ### 2. Download the VGG-19 model and dataset
@@ -54,7 +60,3 @@ Run the file `style-transfer-deep-learning-algorithm.ipynb` in Jupyter Notebook.
 
 - [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 - [Neural Style Transfer: A Review](https://arxiv.org/abs/1705.04058)
-cd /D:/Projects/Deep Learning/Neural-Style-Transfer/
-touch .gitkeep
-git add .
-git commit -m "Add placeholder file for empty folder"
